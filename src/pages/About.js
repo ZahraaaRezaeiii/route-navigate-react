@@ -1,6 +1,6 @@
 export const About = () => {
     return(
-        <h1>This is About page.</h1>
+        <p>This is About page.</p>
     )
 
 }
